@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="base_xp">Base XP</string>
+    <string name="move">Move</string>
+    <string name="ability">Ability</string>
+    <string name="pokelist">PokeList</string>
+    <string name="search_label">Pokemon:</string>
+    <string name="search">Search</string>
+    <string name="clear_watchlist">Clear Watchlist</string>
+    <string name="clear_profile">Clear Profile</string>
+    <string name="add">Add</string>
+</resources>
